@@ -60,7 +60,7 @@ Click WA logo to Join Support Group 👇
 Click Pikachu logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/LXQpjOuDf7IFUWJ1XoPFoT" target="blank"><img align="center" src="https://i.imgur.com/dwQR2AL.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
