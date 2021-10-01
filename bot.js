@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Pikachu Running! 😎')
+            chalk.green.bold('𝐊𝐈𝐋𝐋𝐀𝐃𝐈 Running! 🦋🍃')
         );
     });
     
@@ -482,7 +482,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('unescaped')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝐊𝐈𝐋𝐋𝐀𝐃𝐈 𝐁𝐎𝐓 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Main Error:* _Word Character Usage_' +
