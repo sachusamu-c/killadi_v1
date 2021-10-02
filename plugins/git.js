@@ -19,7 +19,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is sachusamu*
-*Creator number : wa.me/919744474997?text=Hi%20Sachu%20Samu.%20*
+*Creator number : wa.me/919744474996?text=Hi%20Sachu%20Samu.%20*
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
 *Githublink (Setup)  :    https://github.com/sachusamu-c/killadi_v1*
 *Audio commads :   https://github.com/sachusamu-c/tree/master/uploads*
