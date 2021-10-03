@@ -91,7 +91,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/sachusamu-c/killadi_v1
-$ cd pikachu
+$ cd killadi_v1
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
