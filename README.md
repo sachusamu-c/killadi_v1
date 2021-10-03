@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/211002/6f777ef2e0842976245563c0d7213758.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://i.imgur.com/EhDuEIU.jpeg" alt="GIF" width="250" height="200"/>
+        <img src="https://i.imgur.com/EhDuEIU.jpeg" alt="GIF" width="500" height="500"/>
 </p>
 
 <div align="center">
