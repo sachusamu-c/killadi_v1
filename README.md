@@ -51,7 +51,7 @@ Project created by <a href="https://github.com/sachusamu-c">sachusamu-c</a> to m
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/LXQpjOuDf7IFUWJ1XoPFoT" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
@@ -60,7 +60,7 @@ Click WA logo to Join Support Group 👇
 Click Pikachu logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/LXQpjOuDf7IFUWJ1XoPFoT" target="blank"><img align="center" src="https://i.imgur.com/dwQR2AL.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/LXQpjOuDf7IFUWJ1XoPFoT" target="blank"><img align="center" src="https://i.imgur.com/EhDuEIU.jpeg" alt="kyrie.baran" height="300" width="300" /></a>
 </p>
     
 ## Setup
